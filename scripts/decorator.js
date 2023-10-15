@@ -1,4 +1,5 @@
 // we can dynamically add new properties and methods to objects
+// The Pizza class represents a pizza and has a cost method that returns the cost of the pizza 
 
 class Pizza {
     cost() {
